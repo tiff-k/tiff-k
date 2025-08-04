@@ -2,7 +2,7 @@
 - 💭 I’m interested in automating workflows and repetitive tasks with scripting and cybersecurity.
 - 📚 I’m currently learning penetration testing tools like Nmap, Wireshark, and Metasploit.
 - 🤝 I’m looking to collaborate on automation projects to simplify Linux tasks.
-- 📫 How to reach me: <a href="mailto:tiffanykulka@protonmail.com"> tiffanykulka@protonmail.com</a> |  <a href="https://www.linkedin.com/in/tlee02">LinkedIn</a>.
+- 📫 How to reach me: <a href="mailto:tiff@techtiff.ai"> tiff@techtiff.ai</a> |  <a href="https://www.linkedin.com/in/tiffanykyazze">LinkedIn</a>.
 - 🖥️ Languages: SQL, Python, XML, HTML, CSS, Bash, Javascript.
 
 <!---
